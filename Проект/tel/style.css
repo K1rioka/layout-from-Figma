@@ -1,0 +1,71 @@
+body{
+	background-image: url(image/fon.jpg);
+	background-size: 100%;
+}
+.menu{
+	border: 1px solid #000;
+	border-radius: 15px;
+	max-width: 450px;
+	min-height: 400px;
+	margin: 0 auto;
+	padding: 10px;
+	background-color: #2f3335;
+
+}
+.men{
+padding: 25px;
+}
+h1{
+	color: #fff;
+	text-align: center;
+}
+.t1, .t2, .t3, .t4{
+	color: #fff;
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+input{
+	width: 400px;
+	height: 45px;
+	margin-top: -10px;
+	background: #484848;
+	border-radius: 8px;
+	border: none;
+	padding-left: 10px;
+}
+.prod{
+	background: #0000FF;
+	color: #fff;
+	font-size: ';
+	height: 50px;
+	border-radius: 10px;
+
+}
+select{
+	width: 90px;
+	height: 30px;
+	margin:-15px 0 15px 25px;
+	background: #484848;
+	color: #fff;
+	border: 1px solid #484848;
+	border-radius: 4px;
+	font-size: 15px;
+}
+.tt{
+	margin-top: -10px;
+}
+.footer{
+	color: grey;
+	margin-top: 35px;
+}
+a{
+	color: #1E90FF;
+	text-align: justify;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+input:focus{
+	color: blue;
+}
